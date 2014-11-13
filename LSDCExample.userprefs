@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.10.71.34.101:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LSDCExample/App.cs">
+    <Files>
+      <File FileName="LSDCExample/App.cs" Line="20" Column="20" />
+      <File FileName="iOS/AppDelegate.cs" Line="3" Column="3" />
+      <File FileName="LSDCExample/TodoItem.cs" Line="14" Column="14" />
+      <File FileName="LSDCExample/TodoPage.cs" Line="18" Column="18" />
+      <File FileName="Android/MainActivity.cs" Line="66" Column="66" />
+      <File FileName="iOS/Main.cs" Line="26" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

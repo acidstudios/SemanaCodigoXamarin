@@ -1,0 +1,12 @@
+/Users/apple/Projects/LSDCExample/LSDCExample/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/apple/Projects/LSDCExample/LSDCExample/bin/Debug/LSDCExample.dll.mdb
+/Users/apple/Projects/LSDCExample/LSDCExample/bin/Debug/LSDCExample.dll
+/Users/apple/Projects/LSDCExample/LSDCExample/obj/Debug/LSDCExample.dll
+/Users/apple/Projects/LSDCExample/LSDCExample/obj/Debug/LSDCExample.dll.mdb
+/Users/apple/Projects/LSDCExample/LSDCExample/bin/Debug/Xamarin.Forms.Core.dll
+/Users/apple/Projects/LSDCExample/LSDCExample/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/apple/Projects/LSDCExample/LSDCExample/bin/Debug/Newtonsoft.Json.dll
+/Users/apple/Projects/LSDCExample/LSDCExample/bin/Debug/System.Net.Http.dll
+/Users/apple/Projects/LSDCExample/LSDCExample/bin/Debug/System.Net.Http.Primitives.dll
+/Users/apple/Projects/LSDCExample/LSDCExample/bin/Debug/System.Net.Http.Extensions.dll
+/Users/apple/Projects/LSDCExample/LSDCExample/bin/Debug/Microsoft.WindowsAzure.Mobile.dll
